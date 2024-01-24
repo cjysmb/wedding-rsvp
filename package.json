@@ -2,7 +2,7 @@
   "name": "wedding-rsvp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cjysmb.github.io/samboabille",
+  "homepage": "https://cjysmb.github.io/samboabille/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
