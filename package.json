@@ -1,6 +1,5 @@
 {
   "name": "wedding-rsvp",
-  "homepage": "https://cjysmb.github.io/wedding-rsvp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

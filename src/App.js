@@ -1,7 +1,7 @@
 import './App.css';
 import { Home } from './screens/Home';
 
-import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 
 const App = () => {
   return(
